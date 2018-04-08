@@ -79,21 +79,21 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: umran.ahji
-    url:
+    username: umran.haji
+    url: https://www.facebook.com/umran.haji
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: umranhaji
     url: https://github.com/umranhaji
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: Umran Haji
     url: https://www.linkedin.com/in/umranhaji/
     desc: Connect with me on LinkedIn
     share: true

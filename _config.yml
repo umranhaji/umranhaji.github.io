@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "Umran's new blog"
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
@@ -72,7 +72,7 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username: 
     url: 
     desc: Follow me on Twitter
     share: true

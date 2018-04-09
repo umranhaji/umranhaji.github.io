@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
@@ -7,8 +7,6 @@ permalink: /about/
 Centrarium is a custom theme for Jekyll, made by [Ben Centra](http://bencentra.com) for his own blog. He’d be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
 ![test](/uploads/wide-field.jpg)
-
-&nbsp;
 
 This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely.
 
@@ -22,8 +20,7 @@ for i in np.arange(5):
 print "Just a test"
 ```
 
-
-``` r
+```r
 S = function(sample){
     n = length(sample)
     S = 1 - ecdf(sample)(seq(0,12, .01))*n/(n+1) #return(log(sample, base = exp(1))) return(S)

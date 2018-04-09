@@ -23,6 +23,19 @@ print "Just a test"
 ```
 
 
+```R
+S = function(sample){
+n = length(sample)
+S = 1 - ecdf(sample)(seq(0,12, .01))*n/(n+1) #return(log(sample, base = exp(1))) return(S)
+}
+samples = replicate(100, rexp(n = 100, rate = 1))
+Ss = apply(samples, 2, FUN=S) x = seq(0,12,.01)
+logs = apply(Ss, 2, log)
+matplot(x, logs, lty=1, type='l', xlab = 'Time',
+ylab='Log of Empirical Survival Function',
+main="Log Survival Functions for 100 Samples from Exponential (1) Distribution", cex.main=.85)
+grid()
 ```
+
 do.call(rbind, a)
 ```

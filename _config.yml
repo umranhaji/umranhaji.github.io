@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: BLOG TITLE HERE
-subtitle: "Umran's new blog"
+title: Umran Haji
+subtitle: "Hi there, I'm making a blog here. It's under construction, so don't mind all the filler that is here right now. Come back later!"
 email: unhaji@gmail.com
 name: Umran Haji
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Umran's blog, currently under construction
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.

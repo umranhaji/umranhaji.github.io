@@ -21,3 +21,8 @@ for i in np.arange(5):
     a.append(i)
 print "Just a test"
 ```
+
+
+```
+do.call(rbind, a)
+```

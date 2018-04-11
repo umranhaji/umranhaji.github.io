@@ -36,3 +36,4 @@ grid()
 
 Below I will test some latex:
 
+$$a = b$$

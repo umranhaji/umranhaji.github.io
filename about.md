@@ -48,7 +48,7 @@ ylab='Log of Empirical Survival Function',
 main="Log Survival Functions for 100 Samples from Exponential (1) Distribution", cex.main=.85)
 grid()
 
-{% endhighlight %}}
+{% endhighlight %}
 
 Below I will test some $$\forall x \in R$$ latex:
 

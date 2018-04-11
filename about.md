@@ -34,8 +34,8 @@ main="Log Survival Functions for 100 Samples from Exponential (1) Distribution",
 grid()
 ```
 
-Below I will test some $cool$ \a=b\ latex:
+Below I will test some $cool$ \(a=b\) latex:
 
 $$a = b$$
 
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+$$\left( \sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6} \right)$$

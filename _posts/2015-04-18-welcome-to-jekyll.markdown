@@ -72,3 +72,5 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
 [liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+
+$$\left( \sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6} \right)$$

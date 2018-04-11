@@ -34,7 +34,7 @@ main="Log Survival Functions for 100 Samples from Exponential (1) Distribution",
 grid()
 ```
 
-Below I will test some $cool$ $a=b$ latex:
+Below I will test some $cool$ \a=b\ latex:
 
 $$a = b$$
 

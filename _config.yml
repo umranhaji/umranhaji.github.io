@@ -5,8 +5,8 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 
-plugins:
-    - jekyll-archives
+#plugins:
+#    - jekyll-archives
 
 exclude:
   - "/vendor/"

@@ -34,7 +34,7 @@ main="Log Survival Functions for 100 Samples from Exponential (1) Distribution",
 grid()
 ```
 
-{% highlight <R> %}
+{% highlight R %}
 
 S = function(sample){
     n = length(sample)
